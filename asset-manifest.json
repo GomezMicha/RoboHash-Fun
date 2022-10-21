@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RoboHash-Fun/static/css/main.eb733aa6.css",
-    "main.js": "/RoboHash-Fun/static/js/main.786d506c.js",
+    "main.css": "/RoboHash-Fun/static/css/main.6223d0b8.css",
+    "main.js": "/RoboHash-Fun/static/js/main.0fbcf1dd.js",
     "static/js/787.1c7eb780.chunk.js": "/RoboHash-Fun/static/js/787.1c7eb780.chunk.js",
     "index.html": "/RoboHash-Fun/index.html",
-    "main.eb733aa6.css.map": "/RoboHash-Fun/static/css/main.eb733aa6.css.map",
-    "main.786d506c.js.map": "/RoboHash-Fun/static/js/main.786d506c.js.map",
+    "main.6223d0b8.css.map": "/RoboHash-Fun/static/css/main.6223d0b8.css.map",
+    "main.0fbcf1dd.js.map": "/RoboHash-Fun/static/js/main.0fbcf1dd.js.map",
     "787.1c7eb780.chunk.js.map": "/RoboHash-Fun/static/js/787.1c7eb780.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb733aa6.css",
-    "static/js/main.786d506c.js"
+    "static/css/main.6223d0b8.css",
+    "static/js/main.0fbcf1dd.js"
   ]
 }
