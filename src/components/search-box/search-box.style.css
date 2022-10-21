@@ -1,0 +1,14 @@
+.search-box {
+  -webkit-appearance: none;
+  margin: 2rem;
+  width: 240px;
+  padding: 0.5rem;
+  font-family: "Nunito", sans-serif;
+  font-size: 1rem;
+  border: none;
+  outline: rgb(244, 122, 109) solid 2px;
+}
+
+.search-box:focus {
+  outline: rgb(244, 122, 109) solid 4px;
+}

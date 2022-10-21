@@ -1,0 +1,12 @@
+.card-element {
+  margin: 0.2rem;
+  font-family: "Nunito", sans-serif;
+  font-size: 15px;
+  color: rgb(60, 60, 60);
+}
+
+.card-element span {
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
+  color: rgb(30, 60, 99);
+}
