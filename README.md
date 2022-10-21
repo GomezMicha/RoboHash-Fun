@@ -9,7 +9,7 @@ Built with:
 - **[Sass](https://sass-lang.com/).**
 - **[JSON Placeholder API](https://jsonplaceholder.typicode.com/).**
 
-:triangular_flag_on_post: \_To anyone who wishes to make commits and push their own code, just make sure you fork the project first to have a copy of this repository.\*
+:triangular_flag_on_post: *To anyone who wishes to make commits and push their own code, just make sure you fork the project first to have a copy of this repository.*
 
 ## Getting Started
 
